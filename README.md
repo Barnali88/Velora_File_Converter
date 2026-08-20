@@ -1,6 +1,3 @@
-# Velora_File_Converter
-Velora is a modern file utility web application for image conversion, image resizing, PDF tools, video compression, audio extraction, and file processing.
-
 # Velora
 
 Velora is a modern web-based file utility platform for everyday file conversion and file processing tasks. It provides tools for image conversion, image resizing, image compression, background removal, PDF merging, PDF splitting, video conversion, video compression, video-to-GIF conversion, audio extraction, and audio conversion.
